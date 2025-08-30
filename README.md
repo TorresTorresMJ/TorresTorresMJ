@@ -13,8 +13,8 @@ My journey in tech includes:
 
 - 🔭 I’m currently working on expanding my skills and knowledge.
 - 🌱 I’m currently learning abput Python frameworks (Django, FastAPI)
-- 👯 I’m looking to collaborate on innotating companies and seeking for backend of Fullstack opportunities.
-- 
+- 👯 I’m looking to collaborate on innovating companies and seeking for backend of Fullstack opportunities.
+  
 ## 🛠️ Technical Skills
 
 **Backend Development:** Python, Flask, REST APIs, SQLite  
