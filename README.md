@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/Banner.png" alt="Mi Banner" width="600" />
-</div>
+![Mi Banner](assets/Banner.png)
 ## Hi there, I'm Monica Jocelyn 👋 
 
 **Software Engineer | Backend & Embedded Systems Specialist | Building Scalable and High-Reliability Systems**
